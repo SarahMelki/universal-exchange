@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<img src="https://github.com/SarahMelki/universal-exchange/blob/main/header.png?raw=true" alt="kdrama-banner" border="0" height="400">
+<img src="https://github.com/SarahMelki/universal-exchange/blob/main/header.png?raw=true" alt="universal-exchange-banner" border="0" height="400">
 </p>
 
 
